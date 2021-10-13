@@ -1,0 +1,113 @@
+#header{
+    background-color:rgb(4, 4, 39);
+    height: 2cm;
+    width: 100%;
+}
+h1{
+    text-align-last: center;
+    color: wheat;
+    font-family: krona one;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 22px;
+}
+
+#nav{
+    background-color: rgb(238, 193, 125); 
+    height: 1.5cm;
+    width: 40%;
+}
+li{
+float:left;
+padding: 5px;
+margin: 2px 3px 2px 3px;
+}
+
+li a:hover
+{
+    background-color: rgb(236, 220, 78);
+}
+ul{
+    list-style-type:none ;
+    margin-left: none;
+}
+
+a{
+    font-weight:bold ;
+    text-decoration: none;
+    color:black;
+    font-family:krona one;
+    border-right-style: solid;
+    padding: 5px;
+    background-color: rgb(122, 54, 167);
+}
+
+#section{
+    font-weight:bold ;
+    text-decoration:none;
+    color:rgb(175, 18, 18);
+    font-family:krona one;
+    font-size: 25px;
+    margin-top: 2cm;
+    text-align: center;
+}
+
+#section1{
+    font-weight:bold ;
+    text-decoration:none;
+    color:rgb(175, 18, 18);
+    font-family:krona one;
+    margin-top: 1cm;
+    margin-left: 800px;
+}
+
+#article{
+    background-color: darksalmon;
+    height: 5.5cm;
+    color: black;
+    margin-top: 15px;
+    margin-left: 400px;
+}   
+h2{
+    font-weight: normal;
+    text-align:justify;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-indent: 50px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+h3{
+    font-weight: normal;
+    text-align:justify;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-indent: 50px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+
+#image{
+    margin-top: 15px;
+    margin-left: 19cm;
+}    
+
+#footer{
+    background-color:rgb(4, 4, 39);
+    height: 2cm;
+    width: 100%;
+}
+h4{
+    text-align-last: center;
+    color: wheat;
+    font-family: krona one;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 22px;
+}
+
+
